@@ -4,6 +4,44 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-10 | [`www.galab.com\$7.9M\Germany\120GB\100% DISCLOSED`](https://google.com/search?q=www.galab.com%5C%247.9M%5CGermany%5C120GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-10-10 | [`medexhco.com`](https://google.com/search?q=medexhco.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-10 | [`Casio Computer Co., Ltd`](https://google.com/search?q=Casio+Computer+Co.%2C+Ltd) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
+| 2024-10-10 | [`Glacier`](https://google.com/search?q=Glacier) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-10-10 | [`Doscast Hacked`](https://google.com/search?q=Doscast+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
+| 2024-10-10 | [`K***N Corp`](https://google.com/search?q=K%2A%2A%2AN+Corp) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
+| 2024-10-09 | [`transfoodbeverage.com`](https://google.com/search?q=transfoodbeverage.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-10-09 | [`Universal Companies`](https://google.com/search?q=Universal+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-09 | [`RobbJack & Crystallume`](https://google.com/search?q=RobbJack+%26+Crystallume) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-09 | [`FortyEighty Architecture`](https://google.com/search?q=FortyEighty+Architecture) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-09 | [`argofinance.org`](https://google.com/search?q=argofinance.org) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-10-09 | [`tankstar.com`](https://google.com/search?q=tankstar.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
+| 2024-10-09 | [`victrongroup.com`](https://google.com/search?q=victrongroup.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
+| 2024-10-09 | [`Universite Paris Sud`](https://google.com/search?q=Universite+Paris+Sud) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2024-10-09 | [`avans.com`](https://google.com/search?q=avans.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-10-08 | [`Ambassador of Israel in Germany Emails`](https://google.com/search?q=Ambassador+of+Israel+in+Germany+Emails) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
+| 2024-10-08 | [`pingan.com`](https://google.com/search?q=pingan.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-10-08 | [`Smoker's Choice`](https://google.com/search?q=Smoker%27s+Choice) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-08 | [`Saratoga Liquor`](https://google.com/search?q=Saratoga+Liquor) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-08 | [`Eagle Recovery Associates`](https://google.com/search?q=Eagle+Recovery+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-08 | [`AnVa Industries`](https://google.com/search?q=AnVa+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-08 | [`Accounting Resource Group`](https://google.com/search?q=Accounting+Resource+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-08 | [`actionfirepros.com\$17.4M\USA\407GB\100% DISCLOSED`](https://google.com/search?q=actionfirepros.com%5C%2417.4M%5CUSA%5C407GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-10-08 | [`Aaren Scientific`](https://google.com/search?q=Aaren+Scientific) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-08 | [`blalockcompanies.com`](https://google.com/search?q=blalockcompanies.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-08 | [`AIUT`](https://google.com/search?q=AIUT) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-10-08 | [`Blain Supply`](https://google.com/search?q=Blain+Supply) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
+| 2024-10-08 | [`Sit & Sleep`](https://google.com/search?q=Sit+%26+Sleep) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
+| 2024-10-08 | [`okcabstract.com`](https://google.com/search?q=okcabstract.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-08 | [`matki.co.uk\$23M\United Kingdom\267GB\&lt;1% DISCLOSED`](https://google.com/search?q=matki.co.uk%5C%2423M%5CUnited+Kingdom%5C267GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-10-08 | [`corporatejobbank.com\$22.8M\USA\65GB\&lt;1% DISCLOSED`](https://google.com/search?q=corporatejobbank.com%5C%2422.8M%5CUSA%5C65GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-10-08 | [`Max Shop Hacked`](https://google.com/search?q=Max+Shop+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
+| 2024-10-07 | [`healthyuturn.in`](https://google.com/search?q=healthyuturn.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-10-07 | [`nspproteins.com`](https://google.com/search?q=nspproteins.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-07 | [`Richmond Auto Mall - Full Leak`](https://google.com/search?q=Richmond+Auto+Mall+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2024-10-07 | [`Pearl Cohen`](https://google.com/search?q=Pearl+Cohen) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-10-07 | [`autodoc.pro`](https://google.com/search?q=autodoc.pro) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-07 | [`trulysmall.com`](https://google.com/search?q=trulysmall.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-07 | [`Broward Realty Corp`](https://google.com/search?q=Broward+Realty+Corp) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-10-06 | [`yassir.com`](https://google.com/search?q=yassir.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-10-06 | [`yesmoke.eu`](https://google.com/search?q=yesmoke.eu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -166,41 +204,3 @@ _last `200` posts_
 | 2024-10-01 | [`Turman`](https://google.com/search?q=Turman) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-10-01 | [`performance-therapies`](https://google.com/search?q=performance-therapies) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-10-01 | [`www.galab.com\$7.9M\Germany\120GB\&lt;1% DISCLOSED`](https://google.com/search?q=www.galab.com%5C%247.9M%5CGermany%5C120GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-10-01 | [`credihealth.com`](https://google.com/search?q=credihealth.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-10-01 | [`telehealthcenter.in`](https://google.com/search?q=telehealthcenter.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-09-30 | [`https://decalesp.com`](https://google.com/search?q=https%3A%2F%2Fdecalesp.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-09-30 | [`carlile-group.com`](https://google.com/search?q=carlile-group.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2024-09-30 | [`sacredheart.southwark.sch.uk`](https://google.com/search?q=sacredheart.southwark.sch.uk) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2024-09-30 | [`mctas.org.au`](https://google.com/search?q=mctas.org.au) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2024-09-30 | [`mnpl.com.sg`](https://google.com/search?q=mnpl.com.sg) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2024-09-30 | [`verco.co.uk`](https://google.com/search?q=verco.co.uk) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2024-09-30 | [`Keller Williams Realty Group`](https://google.com/search?q=Keller+Williams+Realty+Group) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-09-30 | [`canstarrestorations.com `](https://google.com/search?q=canstarrestorations.com+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-09-30 | [`TOTVS`](https://google.com/search?q=TOTVS) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2024-09-30 | [`itap.nacc.go.th`](https://google.com/search?q=itap.nacc.go.th) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-09-30 | [`McAbee Construction, Inc`](https://google.com/search?q=McAbee+Construction%2C+Inc) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-09-30 | [`Plastics Plus`](https://google.com/search?q=Plastics+Plus) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-09-30 | [`weisermemorialhospital.org`](https://google.com/search?q=weisermemorialhospital.org) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
-| 2024-09-29 | [`nfe.fazenda.gov.br`](https://google.com/search?q=nfe.fazenda.gov.br) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-09-29 | [`poorvika.com`](https://google.com/search?q=poorvika.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-09-29 | [`porter.in`](https://google.com/search?q=porter.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-09-29 | [`The Rubber Resources`](https://google.com/search?q=The+Rubber+Resources) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-29 | [`Reutter`](https://google.com/search?q=Reutter) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-29 | [`Performance Food Centers`](https://google.com/search?q=Performance+Food+Centers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-29 | [`InteriorWorx Commercial Flooring`](https://google.com/search?q=InteriorWorx+Commercial+Flooring) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-29 | [`Garvey`](https://google.com/search?q=Garvey) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-29 | [`G/S Solutions`](https://google.com/search?q=G%2FS+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-29 | [`Condere Ip, Infracom Group`](https://google.com/search?q=Condere+Ip%2C+Infracom+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-29 | [`Classic Business Products`](https://google.com/search?q=Classic+Business+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-29 | [`Andantex USA`](https://google.com/search?q=Andantex+USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-29 | [`Affirm Agency`](https://google.com/search?q=Affirm+Agency) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-29 | [`4B Components`](https://google.com/search?q=4B+Components) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-29 | [`cdc-biodiversite.fr`](https://google.com/search?q=cdc-biodiversite.fr) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
-| 2024-09-29 | [`markdom.com`](https://google.com/search?q=markdom.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-29 | [`nfe.fazenda.gov.br `](https://google.com/search?q=nfe.fazenda.gov.br+) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-09-28 | [`Soreq NRC Hacked`](https://google.com/search?q=Soreq+NRC+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-09-28 | [`appweb.usinacoruripe.com.br`](https://google.com/search?q=appweb.usinacoruripe.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-28 | [`rockymountaingastro.com`](https://google.com/search?q=rockymountaingastro.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-28 | [`www.contegritygroup.com`](https://google.com/search?q=www.contegritygroup.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-28 | [`PipelBiz.com`](https://google.com/search?q=PipelBiz.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-28 | [`http://www.southernfiresprinkler.com`](https://google.com/search?q=http%3A%2F%2Fwww.southernfiresprinkler.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
